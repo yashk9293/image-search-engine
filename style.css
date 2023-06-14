@@ -12,7 +12,7 @@ body{
 
 h1{
     text-align: center;
-    margin: 100px auto 50px;
+    margin: 50px auto 30px;
 
 }
 
@@ -20,11 +20,11 @@ form{
     width: 90%;
     max-width: 600px;
     margin: auto;
-    height: 80px;
-    background: rgb(79, 18, 82);
+    height: 60px;
+    background: rgb(88, 34, 91);
     display: flex;
     align-items: center;
-    border-radius: 8px;
+    border-radius: 20px;
 }
 
 form input{
@@ -45,8 +45,8 @@ form button{
     color: #fff;
     border: 0;
     outline: 0;
-    border-top-right-radius: 8px;
-    border-bottom-right-radius: 8px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
     cursor: pointer;
 }
 
