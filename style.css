@@ -69,7 +69,7 @@ form button{
 
 #search-result{
     width: 90%;
-    margin: 100px auto 50px;
+    margin: 70px auto 50px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 40px;
