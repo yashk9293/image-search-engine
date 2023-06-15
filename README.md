@@ -6,13 +6,13 @@
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
 </div>
-<br>
 
+## Show some :heart: and :star: the repo if you like the design.
 <p>
-  
+  <img src="https://github.com/yashk9293/image-search-engine/blob/main/preview.png" />
 </p>
 
-**Live Demo** : https://yashk9293.github.io/Music-Player/
+## Live Demo : https://yashk9293.github.io/Music-Player/
 
 ## Setup
 
