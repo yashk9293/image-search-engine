@@ -12,7 +12,7 @@
   <img src="https://github.com/yashk9293/image-search-engine/blob/main/preview.png" />
 </p>
 
-## Live Demo : https://yashk9293.github.io/Music-Player/
+## Live Demo : https://yashk9293.github.io/image-search-engine/
 
 ## Setup
 
